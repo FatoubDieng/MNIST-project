@@ -23,4 +23,4 @@ Ce projet utilise le dataset MNIST (chiffres manuscrits) disponible dans Scikit-
 Matrice de confusion, prédiction d’image, visualisation de chiffres...
 
 ##  Démo en ligne
- [Lien vers l'app Streamlit](https://...) 
+ [Lien vers l'app Streamlit](https://nbviewer.org/github/FatoubDieng/MNIST-project/blob/main/mnist_classifier.ipynb) 
